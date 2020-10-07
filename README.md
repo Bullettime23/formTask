@@ -1,3 +1,4 @@
+WARNING: this application only can collects data when the local server from ZIP is started! Do not sent your JSON (DB) file to anyone, if it contains some confidential data! https://bullettime23.github.io/formTask/ ; http://localhost:3000/
 This Aplication consists of two parts:
 FIRST - an adaptive interface, that collects and validates users data via inputs and creates a formData object. API sends object to
 SECOND part - local DB server, that can be downloaded (JSON server DB). Unpack the server and start it on your computer through "node server" command in your cmd.
